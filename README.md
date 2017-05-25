@@ -1,5 +1,12 @@
 # flash_cards
 
+# description
+this is a project about flash cards. flash cards is a tool,
+
+which we can use to note some knowledge about some area.
+
+For example, I will use this web app to note down some questions about javascript, CSS, and so on.
+
 > A Vue.js project
 
 ## Build Setup
